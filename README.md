@@ -1,0 +1,2 @@
+# Developing-a-Navigation-System-Utilizing-Stereoscopic-Cameras-for-the-Visually-Impaired
+Developed  a  Java  program  to  detect  an  object  in  two  different  camera  feeds  and  then  calculate  the  distance between the object and the cameras using an algorithm.  This information was outputted via a text to speech software such that a person with visual impairments would be able to follow it and navigate to the object
